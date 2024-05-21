@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+}
+
+.navbar {
+    display: flex;
+    margin: 50px;
+}
+
+.logo {
+    margin-left: 35px;
+    width: 130px;
+    height: 35px;
+}
+
+ul {
+    display: flex;
+    gap: 35px;
+    margin-left: 25px;
+    list-style: none;
+    margin-top: 5px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.tugma1 {
+    margin-left: 750px;
+    color: white;
+    background-color: #2BD0D0;
+    border: none;
+    border-radius: 20px;
+    width: 120px;
+}
+
+.ota2 {
+    display: flex;
+
+}
+
+.bola {
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+
+
+.text1 {
+    font-size: 40px;
+}
+
+.text2 {
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.tugma2 {
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    background-color: #2BD0D0;
+    color: white;
+}
+
+.rasm {
+    margin-left: 450px;
+}
+
+
+.ota3 {
+    border: none;
+    border-radius: 10px;
+    position: absolute;
+    display: flex;
+    bottom: 15px;
+    left: 220px;
+    background-color: #3A3054;
+    width: 1000px;
+    height: 120px;
+}
+
+
+input {
+    width: 600px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 35px;
+    margin-left: 80px;
+    border: none;
+}
+
+.tugma3 {
+    margin-left: 50px;
+    margin-top: 34px;
+    width: 150px;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #2BD0D0;
+}
+
+.ota4 {
+    margin-top: 55px;
+    background-color: brown;
+    padding-top: 60px;
+    height: 180px;
+}
+
+.text3 {
+    margin-left: 500px;
+    color: white;
+}
+
+.tugma4 {
+    margin-left: 600px;
+    width: 170px;
+    height: 45px;
+    color: white;
+    background-color: #2BD0D0;
+    border: none;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+
+.navbar2 {
+    background-color: #232127;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 50px;
+    height: 65px;
+}
+
+.pop1 {
+    display: flex;
+    gap: 35px;
+    width: 20px;
+    height: 50px;
+    margin-left: 650px;
+}
+
+.oq {
+    color: white;
+}
+
+
+button:hover {
+    background-color: black;
+    color: white;
+}
